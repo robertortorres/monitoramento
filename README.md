@@ -29,8 +29,8 @@ You can access web interface with `http://<host>:<port>`.
 
 ## Instalação
 ```bash
-$ git clone https://github.com/solo5star/dashboard
-$ cd dashboard
+$ sudo git clone https://github.com/robertortorres/monitoramento
+$ cd monitoramento
 $ docker-compose up -d
 ```
 
