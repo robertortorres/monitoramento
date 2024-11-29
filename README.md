@@ -15,9 +15,9 @@ Sistema de monitoramento com **Grafana**+**Prometheus**
 
 ## Docker Stacks
 
-You can access web interface with `http://<host>:<port>`.
+Pode acessar a interface web `http://<host>:<porta>`.
 
-|Docker Image|Container Name|Description|Port|
+|Imagem Docker|Nome do Container|Descrição|Porta|
 |-|-|-|-|
 |grafana/grafana|grafana|Visualize dados de monitoramento com fonte de dados `prometheus`.|3000|
 |prom/prometheus|prometheus|Extraia dados de métricas de cada exportador e armazene-os.|9090|
