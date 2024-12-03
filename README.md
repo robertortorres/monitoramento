@@ -1,6 +1,6 @@
 
 
-# dashboard
+# Monitoramento
 
 Sistema de monitoramento com **Grafana**+**Prometheus**
 
